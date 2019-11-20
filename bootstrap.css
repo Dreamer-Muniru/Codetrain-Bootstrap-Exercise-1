@@ -1,0 +1,52 @@
+body {
+	background-color: white;
+}
+
+.col-1 {
+	background-color: pink;
+}
+
+.col-2 {
+	background-color: lightblue;
+}
+.col-3 {
+	background-color: grey;
+}
+
+.col-4 {
+	background-color: brown;
+}
+
+.col-ha {
+	background-color: orange;
+}
+
+.col-hb {
+	background-color: lightgrey;
+}
+
+h3 {
+	text-align: center;
+}
+
+img {
+	width: 100%;
+	height: 100%;
+	overflow: hidden;
+}
+
+.unit {
+	height: 300px;
+	overflow: hidden;
+
+}
+
+.col-1, .col-2, .col-3, .col-4, .col-ha, .col-hb {
+	display: 
+}
+
+@media (max-width: 768px) {
+	.row {
+		column-count: ;
+	}
+}
